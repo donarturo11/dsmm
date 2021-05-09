@@ -4,7 +4,8 @@ For example you can make animation using only MIDI sequencer.
 
 # Requirements
 * python3
-* pyrtmidi
+* pyrtmidi (see [https://github.com/patrickkidd/pyrtmidi](https://github.com/patrickkidd/pyrtmidi) )
+
 
 ## Mapping
 Hashmap is a bitmap with resolution 16x8 chars. 
