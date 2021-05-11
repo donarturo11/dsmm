@@ -50,7 +50,3 @@ Hashmap is a bitmap with resolution 16x8 chars.
 
 </table>
 
-
-## TODO
-* Help window
-* MIDI Device Choose
