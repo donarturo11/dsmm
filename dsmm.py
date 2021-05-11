@@ -24,10 +24,15 @@ logo="""
 mainHelpText = """
 Main
 =====
-This software shows hashes on place each Matrix.\n
-The picture has a resolution 16x8 because of resolution 
-the single MIDI channel to 128 notes.
-Table below illustrates, how this software runs.
+This software shows hashes
+on place each Matrix.
+The picture has a
+resolution 16x8
+because of resolution
+the single MIDI channel
+to 128 notes.
+Table below illustrates,
+how this software runs.
 
 +-----+-----------+
 |     | Midi note |
